@@ -14,6 +14,6 @@ copia de flapy bird no terminal :3
   ./run.bat 
   ```
   
-  o execultavel estava na pasta build
+  o execultavel estara na pasta build
   
 </div>
