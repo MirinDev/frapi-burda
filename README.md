@@ -7,12 +7,13 @@ copia de flapy bird no terminal :3
   para compilar no linux execulte
   ```
   mkdir build 
+  chmod +x run.sh
   ./run.sh 
   ```
   e para compilar no windows
   ```
   mkdir build 
-  ./run.bat 
+  .\run.bat 
   ```
   
   o execultavel estara na pasta build
