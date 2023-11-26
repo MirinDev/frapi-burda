@@ -12,7 +12,7 @@ copia de flapy bird no terminal :3
   ou
   
   sudo pacman -Sy gcc
-  sudo pacman -Sy libncurses-dev
+  sudo pacman -Sy ncurses
   ```
   e compile com
   ```
